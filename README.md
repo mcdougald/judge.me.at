@@ -7,7 +7,7 @@
 
 # judge.me.at
 
-An AI-assisted case workspace for a small practice.
+AI-assisted case workspaces for law practices.
 
 Judge keeps a small legal practice's matters and documents organised, finds the relevant documents and court records for a question, and reviews a case file with you. It joins public court-record integrations with a firm's own files behind privilege, PII, provenance and rate-budget safeguards. Every citation it shows must be checked against a real opinion first; one that cannot be confirmed is quarantined and marked, never presented as verified. Judge is in active development: the matter dashboard works today, and the AI features have not yet run against a connected model. Nothing here is legal advice.
 
@@ -31,7 +31,7 @@ Judge keeps a small legal practice's matters and documents organised, finds the 
 
 ## Part of the me.at family
 
-judge.me.at is one of the [`*.me.at`](https://me.at) apps by Trevor McDougald. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
+judge.me.at is one of my [`*.me.at`](https://me.at) apps. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
 
 ## License
 
